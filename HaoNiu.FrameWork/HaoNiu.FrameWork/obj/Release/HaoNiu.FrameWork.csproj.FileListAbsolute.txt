@@ -1,0 +1,7 @@
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\bin\Release\HaoNiu.FrameWork.dll.config
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\bin\Release\HaoNiu.FrameWork.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\bin\Release\HaoNiu.FrameWork.pdb
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.csproj.CoreCompileInputs.cache
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.pdb
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.csprojAssemblyReference.cache

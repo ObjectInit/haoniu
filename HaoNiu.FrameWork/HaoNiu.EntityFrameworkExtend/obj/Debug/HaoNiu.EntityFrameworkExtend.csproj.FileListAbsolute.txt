@@ -1,0 +1,12 @@
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Debug\HaoNiu.EntityFrameworkExtend.csprojAssemblyReference.cache
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Debug\HaoNiu.EntityFrameworkExtend.csproj.CoreCompileInputs.cache
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Debug\HaoNiu.EntityFrameworkExtend.dll.config
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Debug\HaoNiu.EntityFrameworkExtend.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Debug\HaoNiu.EntityFrameworkExtend.pdb
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Debug\EntityFramework.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Debug\EntityFramework.xml
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Debug\HaoNiu.EntityFrameworkExtend.csproj.CopyComplete
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Debug\HaoNiu.EntityFrameworkExtend.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Debug\HaoNiu.EntityFrameworkExtend.pdb

@@ -1,0 +1,6 @@
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\bin\Debug\HaoNiu.FrameWork.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\bin\Debug\HaoNiu.FrameWork.pdb
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Debug\HaoNiu.FrameWork.csproj.CoreCompileInputs.cache
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Debug\HaoNiu.FrameWork.dll
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Debug\HaoNiu.FrameWork.pdb
+D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\bin\Debug\HaoNiu.FrameWork.dll.config

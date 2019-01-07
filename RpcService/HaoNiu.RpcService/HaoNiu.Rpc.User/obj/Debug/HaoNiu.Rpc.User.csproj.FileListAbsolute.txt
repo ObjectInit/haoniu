@@ -1,0 +1,2 @@
+D:\Code\HaoNiu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\obj\Debug\HaoNiu.Rpc.User.csprojAssemblyReference.cache
+D:\Code\HaoNiu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\obj\Debug\HaoNiu.Rpc.User.csproj.CoreCompileInputs.cache

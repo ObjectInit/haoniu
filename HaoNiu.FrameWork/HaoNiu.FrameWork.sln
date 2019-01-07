@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaoNiu.FrameWork", "HaoNiu.FrameWork\HaoNiu.FrameWork.csproj", "{69014823-6F40-4C82-B9C1-35DD55C7131B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaoNiu.EntityFrameworkExtend", "HaoNiu.EntityFrameworkExtend\HaoNiu.EntityFrameworkExtend.csproj", "{1A7D741D-7E34-43E1-98D9-7B34B613D982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69014823-6F40-4C82-B9C1-35DD55C7131B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69014823-6F40-4C82-B9C1-35DD55C7131B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69014823-6F40-4C82-B9C1-35DD55C7131B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69014823-6F40-4C82-B9C1-35DD55C7131B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7D741D-7E34-43E1-98D9-7B34B613D982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7D741D-7E34-43E1-98D9-7B34B613D982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7D741D-7E34-43E1-98D9-7B34B613D982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7D741D-7E34-43E1-98D9-7B34B613D982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7CE0B4-F9EB-4745-865E-7BD16296AD9D}
+	EndGlobalSection
+EndGlobal
