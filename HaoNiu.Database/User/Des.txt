@@ -1,0 +1,8 @@
+﻿//数据库迁移
+在database解决方案下的项目
+1.打开程序包管理器控制台 默认项目选择相应的database项目（User）
+2.获取相关命令 Get-Help Enable-Migration
+  //数据迁移相关步骤
+  1.开启迁移-  Enable-Migrations
+  2.添加迁移 Add-Migration 对比当前数据库和模型的差异，生成相应的代码，使数据库和模型匹配的
+  3.同步数据库更新 Update-Database 将任何挂起的迁移到数据库
