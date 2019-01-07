@@ -1,0 +1,8 @@
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\bin\Debug\HaoNiu.Rpc.UserService.dll
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\bin\Debug\HaoNiu.Rpc.UserService.pdb
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\bin\Debug\HaoNiu.FrameWork.dll
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\obj\Debug\HaoNiu.Rpc.UserService.csprojAssemblyReference.cache
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\obj\Debug\HaoNiu.Rpc.UserService.csproj.CoreCompileInputs.cache
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\obj\Debug\HaoNiu.Rpc.UserService.csproj.CopyComplete
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\obj\Debug\HaoNiu.Rpc.UserService.dll
+D:\Code\github\GitRepo\haoniu\RpcService\HaoNiu.RpcService\HaoNiu.Rpc.User\obj\Debug\HaoNiu.Rpc.UserService.pdb

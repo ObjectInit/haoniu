@@ -1,13 +1,12 @@
-﻿using HaoNiu.FrameWork.System.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using HaoNiu.FrameWork.System.Domain;
 using HaoNiu.FrameWork.System.Enum;
 
-namespace HaoNiu.Rpc.User.Domain
+namespace HaoNiu.UserRpc.Domain.Entity
 {
+    /// <summary>
+    /// 用户聚合根
+    /// </summary>
     public class User: AggregateRoot
     {
         /// <summary>

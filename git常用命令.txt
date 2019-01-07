@@ -1,0 +1,49 @@
+1.git status  查看仓库的状态
+2.git init 初始化 Git 仓库
+3.git add  将hit.txt文件添加到 Git 仓库
+4.git commit  将hit.txt文件提交到 Git 仓库
+5.git log   打印 Git 仓库提交日志
+6.git branch   查看 Git 仓库的分支情况
+7. git checkout  a 切换到a分支
+8.git merge   切换到master分支，然后输入git merge a命令，将a分支合并到master分支
+9.git branch -d & git branch -D     删除a分支 D ： 强制删除
+10 git tag为当前分支添加标签    git checkout v1.0  即可切换到该标签下的代码状态
+11 git config --global user.name "名字"
+git config --global user.email "邮箱"
+12 git clone  拷贝仓库项目
+13 git config -l  我们介绍一个查看本机 Git 配置的命令
+
+1.ssh-keygen -t rsa 表示我们指定 RSA 算法生成密钥然后敲三次回车键，期间不需要输入密码，
+之后就就会生成两个文件，分别为id_rsa和id_rsa.pub，即密钥id_rsa和公钥id_rsa.pub. 对于这两个文件，
+其都为隐藏文件，默认生成在以下目录：
+
+
+Linux 系统：~/.ssh
+
+Mac 系统：~/.ssh
+
+Windows 系统：C:\Documents and Settings\username\\.ssh
+
+Windows 10 ThinkPad：C:\Users\think\.ssh
+
+2.id_rsa.pub的内容粘贴到Key处的位置（Titles的内容不填写也没事），然后点击Add SSH key 即可
+
+3.ssh -T git@github.com
+
+
+
+
+1.push：该单词直译过来就是“推”的意思，如果我们本地的代码有了更新，为了保持本地与远程的代码同步，
+我们就需要把本地的代码推到远程的仓库，代码示例：
+ git push origin master
+2.pull：该单词直译过来就是“拉”的意思，如果我们远程仓库的代码有了更新，同样为了保持本地与远程的代码
+同步，我们就需要把远程的代码拉到本地，代码示例
+ git pull origin master
+
+
+
+1.git remote add origin https://github.com/guobinhit/springmvc-tutorial.git命令，关联远程仓库
+2.git pull origin master命令，同步远程仓库和本地仓库：
+
+
+在我们向远程仓库提交代码的时候，一定要先进行pull操作，再进行push操作，防止本地仓库与远程仓库不同步导致冲突的问题，尤其是第二种提交代码的情况，很容易就出现问题。
