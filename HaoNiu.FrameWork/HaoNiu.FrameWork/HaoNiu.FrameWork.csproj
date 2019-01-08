@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DDD\SqlSugar\SqlSugarRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="System\Database\BaseModel.cs" />
     <Compile Include="System\Domain\AggregateRoot.cs" />

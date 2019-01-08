@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using HaoNiu.FrameWork.System.Domain;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace HaoNiu.UserRpc.Domain.Repositories
+namespace HaoNiu.FrameWork.System.Domain.Repository
 {
     /// <summary>
     /// 仓储接口 只对聚合根进行操作
