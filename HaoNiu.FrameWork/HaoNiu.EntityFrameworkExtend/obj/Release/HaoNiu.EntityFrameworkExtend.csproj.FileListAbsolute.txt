@@ -10,3 +10,15 @@ D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Release\HaoNiu.
 D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Release\HaoNiu.EntityFrameworkExtend.csprojAssemblyReference.cache
 D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\EntityFramework.dll
 D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\EntityFramework.SqlServer.dll
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\HaoNiu.EntityFrameworkExtend.dll.config
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\HaoNiu.EntityFrameworkExtend.dll
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\HaoNiu.EntityFrameworkExtend.pdb
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\EntityFramework.dll
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\EntityFramework.SqlServer.dll
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\EntityFramework.xml
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\bin\Release\EntityFramework.SqlServer.xml
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Release\HaoNiu.EntityFrameworkExtend.csprojAssemblyReference.cache
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Release\HaoNiu.EntityFrameworkExtend.csproj.CoreCompileInputs.cache
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Release\HaoNiu.EntityFrameworkExtend.csproj.CopyComplete
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Release\HaoNiu.EntityFrameworkExtend.dll
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.EntityFrameworkExtend\obj\Release\HaoNiu.EntityFrameworkExtend.pdb

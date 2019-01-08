@@ -49,6 +49,7 @@
     <Compile Include="System\Domain\BaseEntity.cs" />
     <Compile Include="System\Domain\IAggregateRoot.cs" />
     <Compile Include="System\Domain\IEntity.cs" />
+    <Compile Include="System\Domain\Repository\IRepository.cs" />
     <Compile Include="System\Enum\User.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -5,3 +5,7 @@ D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.cs
 D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.dll
 D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.pdb
 D:\Code\HaoNiu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.csprojAssemblyReference.cache
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.csprojAssemblyReference.cache
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.csproj.CoreCompileInputs.cache
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.dll
+D:\Code\github\GitRepo\haoniu\HaoNiu.FrameWork\HaoNiu.FrameWork\obj\Release\HaoNiu.FrameWork.pdb
