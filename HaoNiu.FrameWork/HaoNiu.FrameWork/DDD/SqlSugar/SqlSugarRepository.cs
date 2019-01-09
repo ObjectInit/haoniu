@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HaoNiu.FrameWork.DDD.SqlSugar
 {
-    public class SqlSugarRepository<TAggregateRoot>:IRepo
+    public class SqlSugarRepository<TAggregateRoot>
     {
     }
 }
