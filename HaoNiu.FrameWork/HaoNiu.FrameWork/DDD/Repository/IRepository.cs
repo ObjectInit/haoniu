@@ -9,8 +9,6 @@ namespace HaoNiu.FrameWork.DDD.Repository
 {
     public interface IRepository<TAggregateRoot> where TAggregateRoot : class, IAggregateRoot
     {
-        void Add(TAggregateRoot t);
-
-        TAggregateRoot GetByKey(Guid key);
+        
     }
 }

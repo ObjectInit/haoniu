@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DDD\Entityframework\EntityFrameworkRepository.cs" />
+    <Compile Include="DDD\Entityframework\IEntityFrameworkRepository.cs" />
     <Compile Include="DDD\Repository\IRepository.cs" />
     <Compile Include="DDD\SqlSugar\SqlSugarRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
