@@ -9,8 +9,8 @@ namespace HaoNiu.FrameWork.DDD.Repository
     /// <summary>
     /// 仓储上下文
     /// </summary>
-    public interface IRepositoryContext<TDbContent> where TDbContent:class
+    public interface IRepositoryContext
     {
-        TDbContent DbContent { get; set; }
+        void Get<T>();
     }
 }

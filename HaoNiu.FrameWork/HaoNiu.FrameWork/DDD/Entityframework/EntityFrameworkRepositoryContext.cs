@@ -10,8 +10,11 @@ namespace HaoNiu.FrameWork.DDD.Entityframework
     /// <summary>
     /// EF上下文实现
     /// </summary>
-    public class EntityFrameworkRepositoryContext:IRepositoryContext<System.>
+    public class EntityFrameworkRepositoryContext:IRepositoryContext 
     {
-
+        public void Get<T>()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
