@@ -10,4 +10,5 @@
   &lt;Assembly Path="D:\Code\HaoNiu\HaoNiu.FrameWork\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll" /&gt;&#xD;
   &lt;Assembly Path="D:\Code\HaoNiu\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Data.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
